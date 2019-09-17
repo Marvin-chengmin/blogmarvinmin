@@ -5,6 +5,6 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: https://marvinminblog.github.io
+baseurl: /"Marvin-chengmin"
 plugins: [jekyll-gist]
 permalink: /:year/:month/:title.html
